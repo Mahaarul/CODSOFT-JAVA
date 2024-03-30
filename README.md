@@ -1,9 +1,9 @@
-# CODSOFT-JAVA
+# CODSOFT-JAVA PROGRAMMING 
 #CODSOFT  codsoft  java-Developer Internship
 
-I have completed tasks given for my internship as a Java Programmer in CodSoft. I hope it will be helpfull for you.
+I have completed tasks given for my internship as a Java Programmer in CodSoft.
 
-Task 1:- Number Game
+Task 1:- NUMBER GUESS GAME
 1. Generate a random integer within a specified range.
 2. Prompt the user to enter their guess for the generated number.
 3. Compare the user's guess with the generated number and provide feedback on whether the guess
