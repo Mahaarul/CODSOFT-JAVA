@@ -1,5 +1,4 @@
-# CODSOFT-JAVA PROGRAMMING 
-#CODSOFT  codsoft  java-Developer Internship
+# CODSOFT-JAVA PROGRAMMING INTERNSHIP
 
 I have completed tasks given for my internship as a Java Programmer in CodSoft.
 
